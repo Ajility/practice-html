@@ -1,8 +1,14 @@
-body {
-  background-color: brown;
-  font-size: 2rem;
+.container {
+  background-color: blue;
+  font-size: 1.5rem;
+  width: 26rem;
+  height: 26rem;
   text-align: center;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding: 3rem;
+  margin: 5rem;
+  border: 6px solid;
+  border-style: solid;
+  border-color: black;
+  border-radius: 15rem;
 }
